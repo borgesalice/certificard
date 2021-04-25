@@ -1,2 +1,2 @@
-# certificard
-Certificard da imersão.dev
+# Certificard
+Certificado da imersão.dev
